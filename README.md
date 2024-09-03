@@ -1,4 +1,5 @@
 # HackBio Internship
+## Drug Resistance
 **Introduction**
 
 The phenomenon of drug resistance was initially documented in 1945, when a strain of bacteria demonstrated resistance to the bactericidal effects of penicillin (Aminov R., 2010[\[GD1\]](#_msocom_1) )) and this event has since prompted extensive research into drug resistance worldwide, particularly concerning various pathogens. The World Health Organization has recognized drug resistance as a significant global threat, primarily attributing its rise to the misuse and overuse of antimicrobial agents (World Health Organization, 2015[\[GD2\]](#_msocom_2) ).
